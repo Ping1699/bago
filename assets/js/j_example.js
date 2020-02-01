@@ -1,0 +1,1 @@
+console.log(!yey! gumana ang file);
